@@ -1,1 +1,1 @@
-# ksu
+# ksu.github.io
